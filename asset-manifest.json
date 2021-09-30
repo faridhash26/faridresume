@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/faridresume/static/css/main.865b1a91.chunk.css",
+    "main.js": "/faridresume/static/js/main.1642decc.chunk.js",
+    "main.js.map": "/faridresume/static/js/main.1642decc.chunk.js.map",
+    "runtime-main.js": "/faridresume/static/js/runtime-main.4b68d6f8.js",
+    "runtime-main.js.map": "/faridresume/static/js/runtime-main.4b68d6f8.js.map",
+    "static/css/2.f2512455.chunk.css": "/faridresume/static/css/2.f2512455.chunk.css",
+    "static/js/2.1d82425d.chunk.js": "/faridresume/static/js/2.1d82425d.chunk.js",
+    "static/js/2.1d82425d.chunk.js.map": "/faridresume/static/js/2.1d82425d.chunk.js.map",
+    "index.html": "/faridresume/index.html",
+    "static/css/2.f2512455.chunk.css.map": "/faridresume/static/css/2.f2512455.chunk.css.map",
+    "static/css/main.865b1a91.chunk.css.map": "/faridresume/static/css/main.865b1a91.chunk.css.map",
+    "static/js/2.1d82425d.chunk.js.LICENSE.txt": "/faridresume/static/js/2.1d82425d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4b68d6f8.js",
+    "static/css/2.f2512455.chunk.css",
+    "static/js/2.1d82425d.chunk.js",
+    "static/css/main.865b1a91.chunk.css",
+    "static/js/main.1642decc.chunk.js"
+  ]
+}
