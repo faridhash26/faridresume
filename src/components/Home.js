@@ -22,7 +22,6 @@ import {
   faEnvelope,
   faPhone,
 } from "@fortawesome/free-solid-svg-icons";
-import Footer from "./Footer";
 
 const Home = () => {
   return (
@@ -457,10 +456,6 @@ const Home = () => {
         </Container>
       </section>
       {/* contact section end */}
-
-      {/* footer start */}
-      <Footer />
-      {/* footer end */}
     </>
   );
 };
