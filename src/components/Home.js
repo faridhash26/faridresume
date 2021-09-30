@@ -22,6 +22,7 @@ import {
   faEnvelope,
   faPhone,
 } from "@fortawesome/free-solid-svg-icons";
+import Footer from "./Footer";
 
 const Home = () => {
   return (
@@ -33,7 +34,7 @@ const Home = () => {
             <Col md="6" className="mt-5 mt-md-0">
               <div className="home-img text-center">
                 <Image
-                  src="/images/profile.jpg"
+                  src={process.env.PUBLIC_URL + "/images/profile.jpg"}
                   width="500px"
                   alt="profile img"
                   className="mw-100"
@@ -251,7 +252,7 @@ const Home = () => {
             <Col md="6" lg="4">
               <div className="profolio-item text-center">
                 <Image
-                  src="/images/proshop.png"
+                  src={process.env.PUBLIC_URL + "/images/proshop.png"}
                   className="w-100"
                   thumbnail
                   alt="Proshop "
@@ -267,7 +268,7 @@ const Home = () => {
             <Col md="6" lg="4">
               <div className="profolio-item text-center">
                 <Image
-                  src="/images/proshop.png"
+                  src={process.env.PUBLIC_URL + "/images/proshop.png"}
                   className="w-100"
                   thumbnail
                   alt="Proshop "
@@ -283,7 +284,7 @@ const Home = () => {
             <Col md="6" lg="4">
               <div className="profolio-item text-center">
                 <Image
-                  src="/images/proshop.png"
+                  src={process.env.PUBLIC_URL + "/images/proshop.png"}
                   className="w-100"
                   thumbnail
                   alt="Proshop "
@@ -299,7 +300,7 @@ const Home = () => {
             <Col md="6" lg="4">
               <div className="profolio-item text-center">
                 <Image
-                  src="/images/proshop.png"
+                  src={process.env.PUBLIC_URL + "/images/proshop.png"}
                   className="w-100"
                   thumbnail
                   alt="Proshop "
@@ -315,7 +316,7 @@ const Home = () => {
             <Col md="6" lg="4">
               <div className="profolio-item text-center">
                 <Image
-                  src="/images/proshop.png"
+                  src={process.env.PUBLIC_URL + "/images/proshop.png"}
                   className="w-100"
                   thumbnail
                   alt="Proshop "
@@ -331,7 +332,7 @@ const Home = () => {
             <Col md="6" lg="4">
               <div className="profolio-item text-center">
                 <Image
-                  src="/images/proshop.png"
+                  src={process.env.PUBLIC_URL + "/images/proshop.png"}
                   className="w-100"
                   thumbnail
                   alt="Proshop "
